@@ -26,8 +26,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andriniainanekena&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=false&card_width=450" height="195"/>
-     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriniainanekena&layout=compact&theme=tokyonight&langs_count=8&card_width=450&height=195" height="195"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriniainanekena&layout=compact&theme=tokyonight&langs_count=8&card_width=450&height=195"/>
 </p>
 
 ---
