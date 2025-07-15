@@ -63,6 +63,6 @@
 
 <p align="left">
   <strong>Email :</strong> <a href="mailto:andriniainanekena@gmail.com">andriniainanekena@gmail.com</a><br/><br/>
-  <strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/andriniainanekena/">Andriniaina Nekena</a><br/><br/>
+  <strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/andriniainanekena/">Nekena Andriniaina</a><br/><br/>
   <strong>Facebook :</strong> <a href="https://www.facebook.com/nekena05">Nekena Andriniaina</a>
 </p>
