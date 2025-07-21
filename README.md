@@ -17,7 +17,6 @@
 <p align="left">
   🎓 I am a computer science student, committed to learning the fundamentals of computing and related technologies.<br/><br/>
   💡 Curious and diligent, I focus on understanding key concepts in programming, databases, and computing tools.<br/><br/>
-  📚 I take a gradual and structured approach in my studies.
 </p>
 
 ---
