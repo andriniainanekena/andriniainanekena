@@ -15,7 +15,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="left">
-  🎓 I am a computer science student.<br/><br/>
+  🎓 I am a computer science studentcommitted to learning the fundamentals of computing and related technologies.<br/><br/>
 </p>
 
 ---
