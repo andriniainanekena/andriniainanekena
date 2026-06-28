@@ -15,7 +15,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="left">
-  🎓 I am a computer science student committed to learning the fundamentals of computing and related technologies.<br/><br/>
+  I am a computer science student committed to learning the fundamentals of computing and related technologies.<br/><br/>
 </p>
 
 ---
@@ -56,11 +56,3 @@
 </p>
 
 ---
-
-<h2 align="center">Contact</h2>
-
-<p align="left">
-  <strong>Email :</strong> <a href="mailto:andriniainanekena@gmail.com">andriniainanekena@gmail.com</a><br/><br/>
-  <strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/andriniainanekena/">Nekena Andriniaina</a><br/><br/>
-  <strong>Facebook :</strong> <a href="https://www.facebook.com/nekena05">Nekena Andriniaina</a>
-</p>
